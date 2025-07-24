@@ -1,6 +1,7 @@
 Exploratory Data Analysis (EDA) on Transavvy Auto-mobile Inc.
 
 Project Overview
+
 This project presents an in-depth Exploratory Data Analysis (EDA) conducted on a dataset from Transavvy Auto-mobile Inc., an automotive company. The primary goal of this analysis is to uncover meaningful patterns, relationships, and insights within the company's sales and order data. By leveraging various statistical and visualization techniques, this EDA aims to provide a comprehensive understanding of sales performance, customer behavior, and product line trends, which can inform strategic business decisions.
 
 Dataset Description
