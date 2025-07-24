@@ -1,6 +1,7 @@
 Exploratory Data Analysis (EDA) on Transavvy Auto-mobile Inc.
 
 Project Overview
+
 This project presents an in-depth EDA conducted on a dataset from Transavvy Auto-mobile Inc., an automotive company. The primary goal of this analysis is to uncover meaningful patterns, relationships, and insights within the company's sales and order data. By leveraging various statistical and visualization techniques, this EDA aims to provide a comprehensive understanding of sales performance, customer behavior, and product line trends, which can inform strategic business decisions.
 
 Dataset Description
@@ -110,4 +111,5 @@ Matplotlib: For creating static, animated, and interactive visualizations.
 Seaborn: Built on Matplotlib, providing a high-level interface for drawing attractive and informative statistical graphics.
 
 Conclusion
+
 This Exploratory Data Analysis provides a foundational understanding of Transavvy Auto-mobile Inc.'s sales data. The insights gained from univariate, bivariate, and multivariate analyses can serve as a basis for more advanced modeling, predictive analytics, and data-driven decision-making to enhance the company's operational efficiency and market strategy.
